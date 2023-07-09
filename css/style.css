@@ -102,6 +102,9 @@ section{
 }
 
 /* Advertise Banner style */
+.dv-banner{
+    margin-bottom: 150px;
+}
 
 .adv-container{
     background-image: url('../images/gradient1.png'), url('../images/watch.png');
